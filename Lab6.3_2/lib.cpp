@@ -35,7 +35,7 @@ void result(FILE* outputTemp, FILE* output) {
 	return;
 }
 //zashita
-//найти комманду с наибольшим кол-вом побед у заданного тренера
+//найти комманду с 1наибольшим кол-вом побед у заданного тренера
 
 void findTeam(FILE* inputTemp, char w[50], int& num, int& winsMax, int& cur) {
 	team Team;
